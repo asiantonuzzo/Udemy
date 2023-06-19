@@ -1,3 +1,3 @@
 # Udemy
 
-My exercises
+My exercises about Udemy
